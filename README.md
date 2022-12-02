@@ -1,1 +1,3 @@
 # CSE_5334_Final_Project
+
+This is my completed Final Project for Dr. Park's CSE 5334 class. The objective of this assignment was to build and train several different image classifier using several different models/algorithms that could classify 6 different types of wild animals (cheetah, fox, hyena, lion, tiger, wolf). In order to train and test the classifier we built we were given a dataset hosted on Kaggle consisting of 1723 images of cheetahs, foxes, hyenas, lions, tigers, and wolves. The code is contained in a Google Colab notebook. The notebook can be run simply by opening it in Colab and running all its cells.
